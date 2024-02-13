@@ -9,6 +9,9 @@ It's a StarWars inspired theme, made for fans of the series, for better experien
 - Detailed
 - Grid
 
+# Backgrounds :
+- 7 Wallpapers
+
 # Screenshots :
 
 ![SCREEN1](https://github.com/soaremicheledavid/ES-A-StarWars-Theme/assets/157101299/9db267e0-9d36-48e1-bee2-333fc9d73f5a)
