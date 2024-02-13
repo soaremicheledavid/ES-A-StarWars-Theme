@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<theme>
+  <formatVersion>4</formatVersion>
+  <view name="system">
+    <image name="staticBackground">
+      <path>./MIX5.png</path>
+    </image>
+  </view>
+  <view name="basic, detailed, grid">
+    <image name="background" extra="true">
+      <path>./MIX5.png</path>
+    </image>
+  </view>
+</theme>
