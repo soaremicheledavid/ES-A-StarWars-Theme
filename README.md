@@ -2,7 +2,7 @@
 It's a StarWars inspired theme, made for fans of the series, for better experience, turn-on navigation sounds!
 
 # Aspect Ratio :
-- 4/3 , 640x480 resolution, Handheld Console
+- 4/3 (Handheld Console)
   
 # Gamelist View Style :
 - Basic
