@@ -306,6 +306,7 @@ Author: SMD © 2024
     <include name="mix5">./assets/MIX5.xml</include>
     <include name="mix6">./assets/MIX6.xml</include>
     <include name="mix7">./assets/MIX7.xml</include>
+    <include name="mix8">./assets/MIX8.xml</include>
   </subset>
 </theme>
 
