@@ -10,7 +10,7 @@ It's a StarWars inspired theme, made for fans of the series, made for Batocera O
 - Grid
 
 # Backgrounds :
-- 7 Wallpapers
+- 8 Wallpapers
 
 # Screenshots :
 
