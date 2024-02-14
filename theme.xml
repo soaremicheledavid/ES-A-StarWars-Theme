@@ -8,17 +8,17 @@ Author: SMD © 2024
   <view name="screen">
    <text name="clock">
       <color>000000</color>
-          <fontPath>./assets/SANS.ttf</fontPath>
+      <fontPath>./assets/SANS.ttf</fontPath>
       <fontSize>0.039</fontSize>
-      <pos>0.005 0</pos>
-	  <origin>0 0</origin>
-      <size>0.09 0.059</size>
+      <pos>0 0</pos>
+      <origin>0 0</origin>
+      <size>0.08 0.040</size>
       <alignment>center</alignment>
       <verticalAlignment>center</verticalAlignment>
     </text>
     <controllerActivity name="controllerActivity">
-      <pos>0 0</pos>
-      <size>0.085 0.025</size>
+      <pos>0.0297 0.010</pos>
+      <size>0.072 0.025</size>
       <horizontalAlignment>right</horizontalAlignment>
       <itemSpacing>0.003</itemSpacing>
       <imagePath>./assets/gamepad.svg</imagePath>
@@ -27,6 +27,7 @@ Author: SMD © 2024
       <hotkeyColor>ffffff</hotkeyColor>
     </controllerActivity>
     <batteryIndicator name="batteryIndicator">
+         <pos>0.92 0.001</pos>
          <size>0.07 0.050</size>
          <color>000000</color>
          <itemSpacing>0</itemSpacing>
@@ -81,7 +82,7 @@ Author: SMD © 2024
     </image>
     <helpsystem name="help">
       <origin>0 0</origin>
-      <pos>0.18 0.94</pos>
+      <pos>0.0220 0.95</pos>
       <textColor>000000</textColor>
       <iconColor>060606</iconColor>
     </helpsystem>
@@ -116,7 +117,7 @@ Author: SMD © 2024
   <view name="basic, detailed, grid">
     <helpsystem name="help">
       <origin>0 0</origin>
-      <pos>0.16 0.95</pos>
+      <pos>0.0220 0.95</pos>
       <textColor>000000</textColor>
       <iconColor>FFFFFFFF</iconColor>
     </helpsystem>
@@ -289,10 +290,9 @@ Author: SMD © 2024
        <defaultTransition>instant</defaultTransition>
     </carousel>
     <text name="systemInfo">
-      <pos>0 0.70</pos>
+      <pos>0.400 0.830</pos>
       <size>1 0.27</size>
-      <backgroundColor>00000000</backgroundColor>
-      <color>ffffff</color>
+      <color>000000</color>
       <fontPath>./assets/SEA.ttf</fontPath>
       <fontSize>0.03</fontSize>
       <visible>true</visible>
