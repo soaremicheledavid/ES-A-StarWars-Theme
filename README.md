@@ -16,6 +16,7 @@ It's a StarWars inspired theme, made for fans of the series, made for Batocera O
 
 ![SCREENSHOT](https://github.com/soaremicheledavid/ES-A-StarWars-Theme/assets/157101299/1416c3a8-2e45-4102-b20c-800489eff223)
 
+![SCREENSHOT2](https://github.com/soaremicheledavid/ES-A-StarWars-Theme/assets/157101299/8d18f83a-5035-427a-9b80-046c1adb6188)
 
 
 ## **Acknowledgments**
