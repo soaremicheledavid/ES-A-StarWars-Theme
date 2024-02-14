@@ -1,5 +1,5 @@
 # ES-A-StarWars-Theme
-It's a StarWars inspired theme, made for fans of the series, for better experience, turn-on navigation sounds!
+It's a StarWars inspired theme, made for fans of the series, made for Batocera Os, for better experience, turn-on navigation sounds!
 
 # Aspect Ratio :
 - 4/3 (Handheld Console)
